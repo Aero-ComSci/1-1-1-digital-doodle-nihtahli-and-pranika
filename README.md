@@ -1,14 +1,7 @@
-# 1.1.1-DD-Template
+This app is for people of all ages who want to customize there pictures. This app allows users to take a picture and then, draw on it or add glasses and/or a hat. 
 
-## Include the following in this read me
+Code
+![image](https://github.com/user-attachments/assets/562782e4-a081-4458-be76-052a3547ca97)
 
-1. Who is this app for?
-1. What does it do, how does it work
-1. Add screenshots of the design view or actual app
-1. Blocks that you showcase your individual skill
-1. The images you created
-
-   Add the MIT App Inventor File to the Repository
-
-   Add the MIT Build File to the repository
-   ![image](https://github.com/user-attachments/assets/be45fa0f-57c2-408c-97dc-2e61eebf5987)
+An Image We Created
+![image](https://github.com/user-attachments/assets/6cedf4d4-654c-4f7c-beea-ebb3fe75d519)
